@@ -1,0 +1,1 @@
+[17-Feb-2015 03:01:16 UTC] PHP Fatal error:  Class 'Mail' not found in /home/filbadco/public_html/email_cron.php on line 10

@@ -1,0 +1,30 @@
+/* Add here all your css styles for IE 8(customizations) */
+/*** START fix for IE 8! ***/
+.list-toggle {
+	font-size: 12px !important;
+}
+
+.table {
+	font-size: 12px !important;
+}
+
+.breadcrumb {
+	font-size: 12px;
+}
+
+.checkbox_ie8,
+.radio_ie8 {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.font12  {
+	font-size: 12px;
+}
+
+.ui-datepicker  {background-color: #D8D8D8; }
+
+#message_content {
+	font-size: 12px !important;
+}
+/*** END fix for IE 8! ***/
